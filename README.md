@@ -47,4 +47,4 @@ or
 Install the required dependencies to run the project:    pip install -r requirements.txt
 Replace the endpoint and key with your Azure Custom Vision model resource endpoint and key in predictor.py.
 Replace the logic app URL with the Azure logic app URL of the trigger in predictor.py.
-Run the application by changing the drive to main folder and run the following the command in the terminal: streamlit run about.py
+Run the application by changing the drive to main folder and run the following the command in the terminal: streamlit run about.py in terminal
