@@ -22,16 +22,16 @@ doctors = [
     {
         "name": "Dr. Aaqeeb Pinjari ",
         "specialization": "Neuro-Surgeon",
-        "location": "Dharmabad",
+        "location": "Nandurbar",
         "available_days": "Mon, Tue, Fri",
-        "contact": "aaqeeb@gmail.com",
+        "contact": "#####@gmail.com",
     },
     {
         "name": "Dr. Arman ",
         "specialization": "Oncologist",
-        "location": "Nandurbar",
+        "location": "Dharmabad",
         "available_days": "Wed, Thu, Sat",
-        "contact": "aaqeeb@gmail.com",
+        "contact": "######",
     },
     # Add more doctors here...
 ]

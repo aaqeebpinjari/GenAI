@@ -98,3 +98,6 @@ st.caption("Performance")
 st.image("images/results.png")
 st.caption("Test Batch One")
 st.image("images/vb.jpg")
+
+# in order to execute the coed run the following command
+# streamlit run about.py
